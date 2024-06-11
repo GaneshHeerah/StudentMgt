@@ -1,0 +1,4 @@
+Alice,123,Undergraduate,Data Structures,Web Development
+Bob,456,Graduate,Software Engineering,Machine Learning
+Charlie,789,Undergraduate,Database Systems,Computer Networks
+David,010,InvalidType,Not Applicable  // This line will be flagged as an error
